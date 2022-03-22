@@ -1,0 +1,27 @@
+.imeagetext{
+    background-image: url(../Img/My\ Dogs.jpeg);  
+    height: 650px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .imeagetext h1,p{
+      text-align: center;
+      color:green;
+      margin-top: 20px;
+  }
+  .imeagetext h1{
+      font-size: 50px;
+      margin-top: 1px;
+      text-align: center;
+      margin-bottom: 50px;
+    
+  }
+  .nav label{
+      color: rgb(12, 0, 0);
+      margin-left: 30%;
+      font-size: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
